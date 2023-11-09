@@ -13,4 +13,4 @@ PORT={any port, I used 8080}
 API_KEY={your google api key}
 ```
 
-Used information from this video for deployment process: https://www.youtube.com/watch?v=vmty50KJg08
+Used information from this video for deployment process: https://www.youtube.com/watch?v=NjYsXuSBZ5U
