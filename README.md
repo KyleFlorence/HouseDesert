@@ -12,3 +12,5 @@ To use this, you'll need a .env file within the server directory with two variab
 PORT={any port, I used 8080}
 API_KEY={your google api key}
 ```
+
+Used information from this video for deployment process: https://www.youtube.com/watch?v=vmty50KJg08
