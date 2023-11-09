@@ -1,6 +1,7 @@
 # HouseDesert
 
 Demo: https://youtu.be/WyP9BGvDTPc
+
 Fully deployed website used in the demo has since been taken down. Used information from this video for deployment process: https://www.youtube.com/watch?v=NjYsXuSBZ5U
 
 This tool, **house desert** is to be used alongside your house hunting process to inform you how far your favorite stores / restaurants are from your potential new house.  
