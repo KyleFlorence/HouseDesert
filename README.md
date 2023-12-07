@@ -1,6 +1,6 @@
 # HouseDesert
 
-Demo: https://youtu.be/WyP9BGvDTPc
+Demo: https://youtu.be/WyP9BGvDTPc  
 Fully deployed website used in the demo has since been taken down as my free trial of Google Cloud expired :)
 
 This tool, **house desert** is to be used alongside your house hunting process to inform you how far your favorite stores / restaurants are from your potential new house.  
